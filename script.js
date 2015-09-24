@@ -8,3 +8,5 @@ function splinter( num1, num2){
 }
 
 console.log(splinter(1,2));
+// output:
+// [1,2,2]
